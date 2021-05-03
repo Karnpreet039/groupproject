@@ -1,4 +1,6 @@
-
+"""
+Structured English- switch to structured english branch 
+"""
 
 
 
@@ -29,8 +31,3 @@ if answer==("find new parkinglot"):
         q= input()
         t= q*9/Time
         print ("In parkinglot",q,"there are", t, " spots avaible")
-
-
-    
-       # for parkinglot in range(1,6): 
-           # parkinglots= parkinglots*15
