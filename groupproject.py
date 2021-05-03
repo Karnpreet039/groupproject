@@ -2,7 +2,9 @@
 Structured English- switch to structured english branch 
 """
 """
-Psuedocode- switch to Psuedocod
+Psuedocode- switch to Psuedocode 
+
+finnished project
 """
 
 
