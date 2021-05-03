@@ -1,7 +1,9 @@
 """
 Structured English- switch to structured english branch 
 """
-
+"""
+Psuedocode- switch to Psuedocod
+"""
 
 
 print("Check current parking lot or find new parkinglot?")
