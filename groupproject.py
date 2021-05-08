@@ -19,7 +19,7 @@ if answer==("current parking lot"):
     information=raw_input()
     if information == ("Number"):
         print("there are", Parkinglot*Time, "parking spots availbe in parkinglot", Parkinglot)
-    if information == ("Percentage"):
+    if information == ("Precentage"):
      print("there is a", (Time*10/Parkinglot), "percent chance you will find parking" )
 if answer==("find new parkinglot"):
     parkinglots=[1,2,3,4,5,6]
