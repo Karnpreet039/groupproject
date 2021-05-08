@@ -1,5 +1,16 @@
 """
-Structured English- switch to structured english branch 
+This program will show users what percentage of parking spots are available in the selected parking lot at the time they enter. 
+They will be asked if they want to see the information of the parking lot they are currently in or find a new parking lot. 
+If they choose a current parking lot, they will be prompted to enter a time and parking lot number.
+Then the user will be prompted to enter Number of percentage, If they choose Number then they will be given how many parking spots are left.
+If they chose Percentage then it will print the sentence “There is a --% chance you will find a parking spot in the parking lot --” . 
+
+If the user wants a new parking spot they will be prompted to enter a time and then display a list of the parking lots available. 
+Then the user will be prompted to enter a parking lot number. 
+This will give the user how many parking spots are available in that particular parking lot. 
+If they want to know another parkinglot’s information then they can enter another parking lot number and it will display the information of that particular parking lot. 
+This loop will repeat four times. 
+
 """
 
 
