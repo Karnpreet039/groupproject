@@ -1,8 +1,32 @@
 """
 Structured English- switch to structured english branch 
 """
+
+
+
 """
-Psuedocode- switch to Psuedocod
+Pseudo Code: 
+Check current parking lot? Or Find a new lot?
+
+Check current parking lot:
+Enter time: 2pm 
+Enter Lot #: 6
+Number of parking spots: or Percentage of spots:
+Number of parking spots: There are 20 spots available at 2pm in parking lot 6.
+Percentage of parking spots: There is a 10% chance of finding a parking spot at 2pm in parking lot 6.
+
+Find a new lot?
+Enter lot #: 4
+Enter time: 6pm
+Number of parking spots: or Percentage of spots:
+Number of parking spots: There are 45 spots available at 6pm in parking lot 4.
+Percentage of parking spots: There is a 60% chance of finding a parking spot at 6pm in parking lot 4. 
+
+Want to check another lot? 
+Yes? Or No?
+Yes: Enters loop
+No: End loop 
+
 """
 
 
